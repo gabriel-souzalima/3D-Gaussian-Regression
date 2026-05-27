@@ -1,6 +1,6 @@
 # dados e resultados
-mmdetection3d/data/
-mmdetection3d/work_dirs/
+mmdetection3d-gauss3d/data/
+mmdetection3d-gauss3d/work_dirs/
 
 # python
 __pycache__/
