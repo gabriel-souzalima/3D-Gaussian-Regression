@@ -1,5 +1,5 @@
 import torch
-params = torch.tensor([[2.0,3.0,4.0,1.0,0.5,0.2],[2.0,3.0,4.0,1.0,0.5,0.2],[2.0,3.0,4.0,1.0,0.5,0.2],[2.0,3.0,4.0,1.0,0.5,0.2]])
+
 def build_cholesky_matrix(params):
 
     L = torch.zeros(size = (params.shape[0],3,3),
