@@ -1,0 +1,20 @@
+# dados e resultados
+mmdetection3d/data/
+mmdetection3d/work_dirs/
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# editor
+.vscode/
+.idea/
+
+# logs
+*.log
+*.json.log
