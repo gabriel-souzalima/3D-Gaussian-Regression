@@ -24,7 +24,7 @@ python tools/train.py configs_gaucho3d/pointpillars/gaussian_pointpillars_kitti_
 
 ## References
 
-- [GauCho](https://github.com/jhlmarques/GauCho) — CVPR 2025
+- [GauCho](https://github.com/jhlmarques/GauCho) 
 - [MMDetection3D](https://github.com/open-mmlab/mmdetection3d)
 - [PointPillars](https://arxiv.org/abs/1812.05784)
 
